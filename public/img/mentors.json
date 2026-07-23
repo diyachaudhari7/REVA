@@ -1,0 +1,834 @@
+{
+  "source_url": "https://race.reva.edu.in/",
+  "section_title": "Learn from India’s Silicon Valley’s Finest",
+  "section_subtitle": "Master emerging tech with insights from top industry minds and gain the edge to lead your domain with confidence.",
+  "categories": {
+    "Artificial Intelligence": [
+      {
+        "name": "Dr. J B Simha",
+        "role": "Chief AI officer, AdoptAI Technologies and Professor and Chief Mentor, RACE",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._J_B_Simha.png",
+        "bio_short": "Dr. J.B. Simha has designed and deployed analytical systems across BFSI, Telecom, Healthcare, and Manufacturing. He has",
+        "bio_full": "Dr. J.B. Simha has designed and deployed analytical systems across BFSI, Telecom, Healthcare, and Manufacturing. He has led mission-critical intelligence projects, with expertise in Data Science, Big Data, AI, and Software Development. Proficient in Python, R, SQL, Java, and SAS, he currently serves as the Chief Mentor at RACE and Chief AI Officer at AdoptAI Technologies.",
+        "profile_url": "https://race.reva.edu.in/team_mf/dr-j-b-simha/#more-1361",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/jbsimha/"
+        },
+        "image_file": "images/artificial-intelligence/Dr._J_B_Simha.png"
+      },
+      {
+        "name": "Ratnakar Pandey",
+        "role": "Chief Data Scientist, Granicus",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Ratnakar_Pandey-1.png",
+        "bio_short": "AI & Data Science Leader with 15+ years of experience across Tech, BFSI, FinTech, and Retail in the US & India. Led 50+ professionals and delivered high-impact",
+        "bio_full": "AI & Data Science Leader with 15+ years of experience across Tech, BFSI, FinTech, and Retail in the US & India. Led 50+ professionals and delivered high-impact ML and analytics solutions. Formerly held leadership roles at Amazon, Amex Kabbage, Citigroup, and Target. Currently serves as Chief Data Scientist at Granicus.",
+        "profile_url": "https://race.reva.edu.in/team_mf/ratnakar-pandey/#more-1360",
+        "social": {
+          "twitter": "https://twitter.com/ratnakar_20",
+          "linkedin": "https://www.linkedin.com/in/ratnakarpandey/"
+        },
+        "image_file": "images/artificial-intelligence/Ratnakar_Pandey-1.png"
+      },
+      {
+        "name": "Pradeepta Mishra",
+        "role": "Vice President of Artificial Intelligence, Beghou Consulting",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Pradeepta_Mishra.png",
+        "bio_short": "Pradeepta Mishra is a seasoned AI leader with 20+ years of experience in applied AI, deep learning, and data science.",
+        "bio_full": "Pradeepta Mishra is a seasoned AI leader with 20+ years of experience in applied AI, deep learning, and data science. Recognized as a 40 Under 40 Data Scientist (2019 & 2020), he holds 15+ patents and has authored 11 books. He’s a TEDx speaker, startup mentor, AI/ML trainer, and visiting faculty at IITs and IIMs. Known for driving practical and explainable AI solutions across industries.",
+        "profile_url": "https://race.reva.edu.in/team_mf/pradeepta-mishra/#more-1359",
+        "social": {
+          "twitter": "https://twitter.com/pradmishra1",
+          "linkedin": "https://www.linkedin.com/in/pradeepta/"
+        },
+        "image_file": "images/artificial-intelligence/Pradeepta_Mishra.png"
+      },
+      {
+        "name": "Ravi Shukla",
+        "role": "Distinguished Engineer, Dell Technologies",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Ravi_Shukla.png",
+        "bio_short": "Ravi Shukla is a Distinguished Engineer at Dell Technologies with over 17 years of experience in Artificial Intelligence,",
+        "bio_full": "Ravi Shukla is a Distinguished Engineer at Dell Technologies with over 17 years of experience in Artificial Intelligence, Machine Learning, and Data Science. He has filed 40 patents to date and has been recognized among Dell’s Top Patent Filers in FY20, FY22, FY24, and FY25. His work in applied AI and data science has been featured across Dell Technologies’ global platforms. He was awarded the “40 Under 40 Data Scientists” recognition by Analytics India Magazine (2019) and has received multiple innovation awards",
+        "profile_url": "https://race.reva.edu.in/team_mf/ravi-shukla/#more-1358",
+        "social": {
+          "twitter": "https://twitter.com/ravishukla26",
+          "linkedin": "https://www.linkedin.com/in/shuklaravi/"
+        },
+        "image_file": "images/artificial-intelligence/Ravi_Shukla.png"
+      },
+      {
+        "name": "Shriram Vasudevan",
+        "role": "Regional Mentor of Change, Atal Innovation Mission Official",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Shriram_Vasudevan-1.png",
+        "bio_short": "Shriram Vasudevan (FIE, FIETE, SMIEEE) is a multifaceted AI Engineering Leader with over 17 years of experience spanning industry, R&D, and academia. A TEDx",
+        "bio_full": "Shriram Vasudevan (FIE, FIETE, SMIEEE) is a multifaceted AI Engineering Leader with over 17 years of experience spanning industry, R&D, and academia. A TEDx speaker and prolific author of 47 books and 150+ research papers, he holds 14 patents and has won over 50 hackathons globally. Shriram is a former Project Manager at LTTS, an Intel Innovator, and a certified instructor for Intel OneAPI. His contributions have been recognized by organizations like Google, Citi Bank, the UAE Government, and Huawei. He also serves as a startup mentor, helping to create four startups to date.",
+        "profile_url": "https://race.reva.edu.in/team_mf/shriram-vasudevan/#more-12030",
+        "social": {
+          "twitter": "https://x.com/shriramkv",
+          "linkedin": "https://www.linkedin.com/in/shriramkvasudevan/"
+        },
+        "image_file": "images/artificial-intelligence/Shriram_Vasudevan-1.png"
+      },
+      {
+        "name": "Bismillah Kani",
+        "role": "Staff AI/ML Scientist, Waygate Technologies",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Bismillah_Kani-1.png",
+        "bio_short": "Innovative AI leader with 15+ years of experience delivering enterprise-scale AI solutions across aerospace,",
+        "bio_full": "Innovative AI leader with 15+ years of experience delivering enterprise-scale AI solutions across aerospace, manufacturing, retail, and more. Expert in MLOps, cloud-native architectures, and generative AI. Skilled at leading cross-functional teams, optimizing AI workflows, and driving business impact through scalable, cost-efficient AI systems. Known for blending research with real-world execution to accelerate innovation and value.",
+        "profile_url": "https://race.reva.edu.in/team_mf/bismillah-kani/#more-12027",
+        "social": {
+          "twitter": "https://x.com/bismillah_kani",
+          "linkedin": "https://www.linkedin.com/in/bismillah-kani-49a31115/"
+        },
+        "image_file": "images/artificial-intelligence/Bismillah_Kani-1.png"
+      },
+      {
+        "name": "Dr. Angshuman Ghosh",
+        "role": "Founder and CEO, MENRV.AI",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._Angshuman_Ghosh.png",
+        "bio_short": "Dr. Angshuman Ghosh is the Founder & CEO of MENRV.AI, Menrva Technologies, and Menrva Enterprises, building impactful AI-ML products for global",
+        "bio_full": "Dr. Angshuman Ghosh is the Founder & CEO of MENRV.AI, Menrva Technologies, and Menrva Enterprises, building impactful AI-ML products for global clients. With 15+ years in firms like Disney, Sony, Grab, and Target, he’s a recognized AI leader and LinkedIn Top Voice in AI. A global speaker and award-winner, his AI insights have reached 200M+ readers and 500K+ followers worldwide.",
+        "profile_url": "https://race.reva.edu.in/team_mf/dr-angshuman-ghosh/#more-1357",
+        "social": {
+          "twitter": "https://twitter.com/drangshu",
+          "linkedin": "https://www.linkedin.com/in/drangshu/"
+        },
+        "image_file": "images/artificial-intelligence/Dr._Angshuman_Ghosh.png"
+      },
+      {
+        "name": "Prahalad Karnam",
+        "role": "CEO and Co-Founder, DishaAI.com",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Prahalad_Karnam.png",
+        "bio_short": "An alumnus of Columbia and Harvard Business Schools with 25+ years of global experience in strategy, marketing, and consulting. Has worked with top brands",
+        "bio_full": "An alumnus of Columbia and Harvard Business Schools with 25+ years of global experience in strategy, marketing, and consulting. Has worked with top brands like GE, Google, IBM, and Unilever across industries. Coaches small and medium businesses to scale with strategic growth models. Also mentors entrepreneurs and lectures at IIMs and global universities.",
+        "profile_url": "https://race.reva.edu.in/team_mf/prahalad-karnam/#more-1356",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/prahalada-karnam-5182567/"
+        },
+        "image_file": "images/artificial-intelligence/Prahalad_Karnam.png"
+      },
+      {
+        "name": "Akshay Kulkarni",
+        "role": "Data Science & AI Leader, Publicis Sapient",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Akshay_Kulkarni.png",
+        "bio_short": "Akshay is a globally recognized AI and ML evangelist, author, speaker, and mentor. As the Global Head of AI & GenAI",
+        "bio_full": "Akshay is a globally recognized AI and ML evangelist, author, speaker, and mentor. As the Global Head of AI & GenAI Platforms, he has led 1000+ AI product innovations for Fortune 500s and startups. Named as “40 Under 40 Data Scientist”, he’s authored 10+ bestselling books and spoken at 50+ global forums, driving business transformation through AI.",
+        "profile_url": "https://race.reva.edu.in/team_mf/akshay-kulkarni/#more-1353",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/akshay-kulkarni-1a562679/"
+        },
+        "image_file": "images/artificial-intelligence/Akshay_Kulkarni.png"
+      },
+      {
+        "name": "Usha Rengaraju",
+        "role": "Chief of Research, Exa Protocol | Kaggle Grandmaster",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Usha_Rengaraju-1.png",
+        "bio_short": "Usha is the world’s first woman Triple Kaggle Grandmaster, AI consultant, and trainer with 10+ years of experience. She’s",
+        "bio_full": "Usha is the world’s first woman Triple Kaggle Grandmaster, AI consultant, and trainer with 10+ years of experience. She’s spoken at leading firms like Samsung, IBM, and JP Morgan, and has won global AI awards including WiDS and Google’s ML in Action.She has also developed data science curricula for BITS Pilani and UpGrad, impacting thousands of learners.",
+        "profile_url": "https://race.reva.edu.in/team_mf/usha-rengaraju/#more-5035",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/usha-rengaraju-b570b7a2/"
+        },
+        "image_file": "images/artificial-intelligence/Usha_Rengaraju-1.png"
+      },
+      {
+        "name": "Sayandeb Banerjee",
+        "role": "Co-Founder and CEO, TheMathCompany",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Sayandeb_Banerjee.png",
+        "bio_short": "Co-founder and CEO of MathCo, member of the Forbes Tech Council and AIM Council. Leads strategy, innovation, and people-centric initiatives to drive",
+        "bio_full": "Co-founder and CEO of MathCo, member of the Forbes Tech Council and AIM Council. Leads strategy, innovation, and people-centric initiatives to drive analytics-driven transformation. Passionate about Indian classical music and an avid sitar player.",
+        "profile_url": "https://race.reva.edu.in/team_mf/sayandeb-banerjee/#more-1350",
+        "social": {
+          "twitter": "https://twitter.com/SayandebBanerj1",
+          "linkedin": "https://www.linkedin.com/in/sayandeb-banerjee-617a652/"
+        },
+        "image_file": "images/artificial-intelligence/Sayandeb_Banerjee.png"
+      },
+      {
+        "name": "Amaralingeswara Rao Kaka",
+        "role": "Director of Professional Services - APJ, EnterpriseDB",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Amaralingeswara_Rao_Kaka.png",
+        "bio_short": "Leads EDB’s APJ Professional Services, driving efficient, cost-effective migrations through the India-based Migration",
+        "bio_full": "Leads EDB’s APJ Professional Services, driving efficient, cost-effective migrations through the India-based Migration Factory. Formerly a Program Director at IBM, led the development of a Digital Analytics platform that boosted marketing performance through behavioral insights and customer engagement.",
+        "profile_url": "https://race.reva.edu.in/team_mf/amaralingeswara-rao-kaka/#more-1347",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/amaralingeswara-rao-kaka-28784a27/"
+        },
+        "image_file": "images/artificial-intelligence/Amaralingeswara_Rao_Kaka.png"
+      },
+      {
+        "name": "Yuvaraju Maddiboina",
+        "role": "Senior Manager Data Science, Comcast",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Yuvaraju_Maddiboina.png",
+        "bio_short": "Experienced Data Scientist with expertise in Python, Machine Learning, and Data Science, with a background in manufacturing. Holds an M.Tech in",
+        "bio_full": "Experienced Data Scientist with expertise in Python, Machine Learning, and Data Science, with a background in manufacturing. Holds an M.Tech in Applied Mechanics from IIT Madras and has a strong track record in the IT and services industry.",
+        "profile_url": "https://race.reva.edu.in/team_mf/yuvaraju-maddiboina#more-15185",
+        "social": {
+          "twitter": "https://x.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/yuvarajum/"
+        },
+        "image_file": "images/artificial-intelligence/Yuvaraju_Maddiboina.png"
+      },
+      {
+        "name": "Abinash Padhi",
+        "role": "Manager Pricing and Analytics, LKQ India Private Limited",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Abinash_Padhi.png",
+        "bio_short": "Data Science professional with 10+ years of experience across domains like automotive, retail, pricing, marketing, and",
+        "bio_full": "Data Science professional with 10+ years of experience across domains like automotive, retail, pricing, marketing, and supply chain. Skilled in data analytics, business intelligence, and machine learning techniques. Expertise includes time series forecasting, logistic regression, decision trees, random forest, and AWS.",
+        "profile_url": "https://race.reva.edu.in/team_mf/abinash-padhi#more-15183",
+        "social": {
+          "twitter": "https://x.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/abinash-padhi-51402717/"
+        },
+        "image_file": "images/artificial-intelligence/Abinash_Padhi.png"
+      },
+      {
+        "name": "Dr. Santosh Nair",
+        "role": "Chief Marketing Analytics Mentor, Analytic Edge Pvt. Ltd.",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._Santosh_Nair.png",
+        "bio_short": "Dr. Santosh Nair is an expert in statistical modeling and advanced analytics, with specialization in marketing mix modeling,",
+        "bio_full": "Dr. Santosh Nair is an expert in statistical modeling and advanced analytics, with specialization in marketing mix modeling, pricing, customer segmentation, loyalty analytics, testing, and forecasting.",
+        "profile_url": "https://race.reva.edu.in/team_mf/dr-santosh-nair/#more-1346",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/santosh-nair-0670b81/"
+        },
+        "image_file": "images/artificial-intelligence/Dr._Santosh_Nair.png"
+      },
+      {
+        "name": "Dr. Sai Hareesh",
+        "role": "Innovator, Maestro Technologies, Inc. | Founder and CEO i2i",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._Sai_Hareesh.png",
+        "bio_short": "Dr. Sai Hareesh has 14+ years of experience in AI, Computer Vision, and Deep Learning across defense,",
+        "bio_full": "Dr. Sai Hareesh has 14+ years of experience in AI, Computer Vision, and Deep Learning across defense, healthcare, and industrial IoT. He holds 108 patents/disclosures, 35 publications, and was named among India’s Top 40 Data Scientists Under 40 (2020). A PhD holder and active mentor, he collaborates with institutions like NITI Aayog, REVA, Stanford, and IITH.",
+        "profile_url": "https://race.reva.edu.in/team_mf/dr-sai-hareesh/#more-5608",
+        "social": {
+          "twitter": "https://twitter.com/saihareesh01",
+          "linkedin": "https://www.linkedin.com/in/saihareesh/"
+        },
+        "image_file": "images/artificial-intelligence/Dr._Sai_Hareesh.png"
+      }
+    ],
+    "Analytics": [
+      {
+        "name": "Dr. J B Simha",
+        "role": "Chief AI officer, AdoptAI Technologies and Professor and Chief Mentor, RACE",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._J_B_Simha.png",
+        "bio_short": "Dr. J.B. Simha has designed and deployed analytical systems across BFSI, Telecom, Healthcare, and Manufacturing. He has",
+        "bio_full": "Dr. J.B. Simha has designed and deployed analytical systems across BFSI, Telecom, Healthcare, and Manufacturing. He has led mission-critical intelligence projects, with expertise in Data Science, Big Data, AI, and Software Development. Proficient in Python, R, SQL, Java, and SAS, he currently serves as the Chief Mentor at RACE and Chief AI Officer at AdoptAI Technologies.",
+        "profile_url": "https://race.reva.edu.in/team_mf/dr-j-b-simha/#more-1361",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/jbsimha/"
+        },
+        "image_file": "images/analytics/Dr._J_B_Simha.png"
+      },
+      {
+        "name": "Ratnakar Pandey",
+        "role": "Chief Data Scientist, Granicus",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Ratnakar_Pandey-1.png",
+        "bio_short": "AI & Data Science Leader with 15+ years of experience across Tech, BFSI, FinTech, and Retail in the US & India. Led 50+ professionals and delivered high-impact",
+        "bio_full": "AI & Data Science Leader with 15+ years of experience across Tech, BFSI, FinTech, and Retail in the US & India. Led 50+ professionals and delivered high-impact ML and analytics solutions. Formerly held leadership roles at Amazon, Amex Kabbage, Citigroup, and Target. Currently serves as Chief Data Scientist at Granicus.",
+        "profile_url": "https://race.reva.edu.in/team_mf/ratnakar-pandey/#more-1360",
+        "social": {
+          "twitter": "https://twitter.com/ratnakar_20",
+          "linkedin": "https://www.linkedin.com/in/ratnakarpandey/"
+        },
+        "image_file": "images/analytics/Ratnakar_Pandey-1.png"
+      },
+      {
+        "name": "Pradeepta Mishra",
+        "role": "Vice President of Artificial Intelligence, Beghou Consulting",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Pradeepta_Mishra.png",
+        "bio_short": "Pradeepta Mishra is a seasoned AI leader with 20+ years of experience in applied AI, deep learning, and data science.",
+        "bio_full": "Pradeepta Mishra is a seasoned AI leader with 20+ years of experience in applied AI, deep learning, and data science. Recognized as a 40 Under 40 Data Scientist (2019 & 2020), he holds 15+ patents and has authored 11 books. He’s a TEDx speaker, startup mentor, AI/ML trainer, and visiting faculty at IITs and IIMs. Known for driving practical and explainable AI solutions across industries.",
+        "profile_url": "https://race.reva.edu.in/team_mf/pradeepta-mishra/#more-1359",
+        "social": {
+          "twitter": "https://twitter.com/pradmishra1",
+          "linkedin": "https://www.linkedin.com/in/pradeepta/"
+        },
+        "image_file": "images/analytics/Pradeepta_Mishra.png"
+      },
+      {
+        "name": "Ravi Shukla",
+        "role": "Distinguished Engineer, Dell Technologies",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Ravi_Shukla.png",
+        "bio_short": "Ravi Shukla is a Distinguished Engineer at Dell Technologies with over 17 years of experience in Artificial Intelligence,",
+        "bio_full": "Ravi Shukla is a Distinguished Engineer at Dell Technologies with over 17 years of experience in Artificial Intelligence, Machine Learning, and Data Science. He has filed 40 patents to date and has been recognized among Dell’s Top Patent Filers in FY20, FY22, FY24, and FY25. His work in applied AI and data science has been featured across Dell Technologies’ global platforms. He was awarded the “40 Under 40 Data Scientists” recognition by Analytics India Magazine (2019) and has received multiple innovation awards",
+        "profile_url": "https://race.reva.edu.in/team_mf/ravi-shukla/#more-1358",
+        "social": {
+          "twitter": "https://twitter.com/ravishukla26",
+          "linkedin": "https://www.linkedin.com/in/shuklaravi/"
+        },
+        "image_file": "images/analytics/Ravi_Shukla.png"
+      },
+      {
+        "name": "Shriram Vasudevan",
+        "role": "Regional Mentor of Change, Atal Innovation Mission Official",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Shriram_Vasudevan-1.png",
+        "bio_short": "Shriram Vasudevan (FIE, FIETE, SMIEEE) is a multifaceted AI Engineering Leader with over 17 years of experience spanning industry, R&D, and academia. A TEDx",
+        "bio_full": "Shriram Vasudevan (FIE, FIETE, SMIEEE) is a multifaceted AI Engineering Leader with over 17 years of experience spanning industry, R&D, and academia. A TEDx speaker and prolific author of 47 books and 150+ research papers, he holds 14 patents and has won over 50 hackathons globally. Shriram is a former Project Manager at LTTS, an Intel Innovator, and a certified instructor for Intel OneAPI. His contributions have been recognized by organizations like Google, Citi Bank, the UAE Government, and Huawei. He also serves as a startup mentor, helping to create four startups to date.",
+        "profile_url": "https://race.reva.edu.in/team_mf/shriram-vasudevan/#more-12030",
+        "social": {
+          "twitter": "https://x.com/shriramkv",
+          "linkedin": "https://www.linkedin.com/in/shriramkvasudevan/"
+        },
+        "image_file": "images/analytics/Shriram_Vasudevan-1.png"
+      },
+      {
+        "name": "Bismillah Kani",
+        "role": "Staff AI/ML Scientist, Waygate Technologies",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Bismillah_Kani-1.png",
+        "bio_short": "Innovative AI leader with 15+ years of experience delivering enterprise-scale AI solutions across aerospace,",
+        "bio_full": "Innovative AI leader with 15+ years of experience delivering enterprise-scale AI solutions across aerospace, manufacturing, retail, and more. Expert in MLOps, cloud-native architectures, and generative AI. Skilled at leading cross-functional teams, optimizing AI workflows, and driving business impact through scalable, cost-efficient AI systems. Known for blending research with real-world execution to accelerate innovation and value.",
+        "profile_url": "https://race.reva.edu.in/team_mf/bismillah-kani/#more-12027",
+        "social": {
+          "twitter": "https://x.com/bismillah_kani",
+          "linkedin": "https://www.linkedin.com/in/bismillah-kani-49a31115/"
+        },
+        "image_file": "images/analytics/Bismillah_Kani-1.png"
+      },
+      {
+        "name": "Dr. Angshuman Ghosh",
+        "role": "Founder and CEO, MENRV.AI",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._Angshuman_Ghosh.png",
+        "bio_short": "Dr. Angshuman Ghosh is the Founder & CEO of MENRV.AI, Menrva Technologies, and Menrva Enterprises, building impactful AI-ML products for global",
+        "bio_full": "Dr. Angshuman Ghosh is the Founder & CEO of MENRV.AI, Menrva Technologies, and Menrva Enterprises, building impactful AI-ML products for global clients. With 15+ years in firms like Disney, Sony, Grab, and Target, he’s a recognized AI leader and LinkedIn Top Voice in AI. A global speaker and award-winner, his AI insights have reached 200M+ readers and 500K+ followers worldwide.",
+        "profile_url": "https://race.reva.edu.in/team_mf/dr-angshuman-ghosh/#more-1357",
+        "social": {
+          "twitter": "https://twitter.com/drangshu",
+          "linkedin": "https://www.linkedin.com/in/drangshu/"
+        },
+        "image_file": "images/analytics/Dr._Angshuman_Ghosh.png"
+      },
+      {
+        "name": "Prahalad Karnam",
+        "role": "CEO and Co-Founder, DishaAI.com",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Prahalad_Karnam.png",
+        "bio_short": "An alumnus of Columbia and Harvard Business Schools with 25+ years of global experience in strategy, marketing, and consulting. Has worked with top brands",
+        "bio_full": "An alumnus of Columbia and Harvard Business Schools with 25+ years of global experience in strategy, marketing, and consulting. Has worked with top brands like GE, Google, IBM, and Unilever across industries. Coaches small and medium businesses to scale with strategic growth models. Also mentors entrepreneurs and lectures at IIMs and global universities.",
+        "profile_url": "https://race.reva.edu.in/team_mf/prahalad-karnam/#more-1356",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/prahalada-karnam-5182567/"
+        },
+        "image_file": "images/analytics/Prahalad_Karnam.png"
+      },
+      {
+        "name": "Akshay Kulkarni",
+        "role": "Data Science & AI Leader, Publicis Sapient",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Akshay_Kulkarni.png",
+        "bio_short": "Akshay is a globally recognized AI and ML evangelist, author, speaker, and mentor. As the Global Head of AI & GenAI",
+        "bio_full": "Akshay is a globally recognized AI and ML evangelist, author, speaker, and mentor. As the Global Head of AI & GenAI Platforms, he has led 1000+ AI product innovations for Fortune 500s and startups. Named as “40 Under 40 Data Scientist”, he’s authored 10+ bestselling books and spoken at 50+ global forums, driving business transformation through AI.",
+        "profile_url": "https://race.reva.edu.in/team_mf/akshay-kulkarni/#more-1353",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/akshay-kulkarni-1a562679/"
+        },
+        "image_file": "images/analytics/Akshay_Kulkarni.png"
+      },
+      {
+        "name": "Usha Rengaraju",
+        "role": "Chief of Research, Exa Protocol | Kaggle Grandmaster",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Usha_Rengaraju-1.png",
+        "bio_short": "Usha is the world’s first woman Triple Kaggle Grandmaster, AI consultant, and trainer with 10+ years of experience. She’s",
+        "bio_full": "Usha is the world’s first woman Triple Kaggle Grandmaster, AI consultant, and trainer with 10+ years of experience. She’s spoken at leading firms like Samsung, IBM, and JP Morgan, and has won global AI awards including WiDS and Google’s ML in Action.She has also developed data science curricula for BITS Pilani and UpGrad, impacting thousands of learners.",
+        "profile_url": "https://race.reva.edu.in/team_mf/usha-rengaraju/#more-5035",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/usha-rengaraju-b570b7a2/"
+        },
+        "image_file": "images/analytics/Usha_Rengaraju-1.png"
+      },
+      {
+        "name": "Sayandeb Banerjee",
+        "role": "Co-Founder and CEO, TheMathCompany",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Sayandeb_Banerjee.png",
+        "bio_short": "Co-founder and CEO of MathCo, member of the Forbes Tech Council and AIM Council. Leads strategy, innovation, and people-centric initiatives to drive",
+        "bio_full": "Co-founder and CEO of MathCo, member of the Forbes Tech Council and AIM Council. Leads strategy, innovation, and people-centric initiatives to drive analytics-driven transformation. Passionate about Indian classical music and an avid sitar player.",
+        "profile_url": "https://race.reva.edu.in/team_mf/sayandeb-banerjee/#more-1350",
+        "social": {
+          "twitter": "https://twitter.com/SayandebBanerj1",
+          "linkedin": "https://www.linkedin.com/in/sayandeb-banerjee-617a652/"
+        },
+        "image_file": "images/analytics/Sayandeb_Banerjee.png"
+      },
+      {
+        "name": "Amaralingeswara Rao Kaka",
+        "role": "Director of Professional Services - APJ, EnterpriseDB",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Amaralingeswara_Rao_Kaka.png",
+        "bio_short": "Leads EDB’s APJ Professional Services, driving efficient, cost-effective migrations through the India-based Migration",
+        "bio_full": "Leads EDB’s APJ Professional Services, driving efficient, cost-effective migrations through the India-based Migration Factory. Formerly a Program Director at IBM, led the development of a Digital Analytics platform that boosted marketing performance through behavioral insights and customer engagement.",
+        "profile_url": "https://race.reva.edu.in/team_mf/amaralingeswara-rao-kaka/#more-1347",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/amaralingeswara-rao-kaka-28784a27/"
+        },
+        "image_file": "images/analytics/Amaralingeswara_Rao_Kaka.png"
+      },
+      {
+        "name": "Yuvaraju Maddiboina",
+        "role": "Senior Manager Data Science, Comcast",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Yuvaraju_Maddiboina.png",
+        "bio_short": "Experienced Data Scientist with expertise in Python, Machine Learning, and Data Science, with a background in manufacturing. Holds an M.Tech in",
+        "bio_full": "Experienced Data Scientist with expertise in Python, Machine Learning, and Data Science, with a background in manufacturing. Holds an M.Tech in Applied Mechanics from IIT Madras and has a strong track record in the IT and services industry.",
+        "profile_url": "https://race.reva.edu.in/team_mf/yuvaraju-maddiboina#more-15185",
+        "social": {
+          "twitter": "https://x.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/yuvarajum/"
+        },
+        "image_file": "images/analytics/Yuvaraju_Maddiboina.png"
+      },
+      {
+        "name": "Abinash Padhi",
+        "role": "Manager Pricing and Analytics, LKQ India Private Limited",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Abinash_Padhi.png",
+        "bio_short": "Data Science professional with 10+ years of experience across domains like automotive, retail, pricing, marketing, and",
+        "bio_full": "Data Science professional with 10+ years of experience across domains like automotive, retail, pricing, marketing, and supply chain. Skilled in data analytics, business intelligence, and machine learning techniques. Expertise includes time series forecasting, logistic regression, decision trees, random forest, and AWS.",
+        "profile_url": "https://race.reva.edu.in/team_mf/abinash-padhi#more-15183",
+        "social": {
+          "twitter": "https://x.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/abinash-padhi-51402717/"
+        },
+        "image_file": "images/analytics/Abinash_Padhi.png"
+      },
+      {
+        "name": "Dr. Santosh Nair",
+        "role": "Chief Marketing Analytics Mentor, Analytic Edge Pvt. Ltd.",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._Santosh_Nair.png",
+        "bio_short": "Dr. Santosh Nair is an expert in statistical modeling and advanced analytics, with specialization in marketing mix modeling,",
+        "bio_full": "Dr. Santosh Nair is an expert in statistical modeling and advanced analytics, with specialization in marketing mix modeling, pricing, customer segmentation, loyalty analytics, testing, and forecasting.",
+        "profile_url": "https://race.reva.edu.in/team_mf/dr-santosh-nair/#more-1346",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/santosh-nair-0670b81/"
+        },
+        "image_file": "images/analytics/Dr._Santosh_Nair.png"
+      },
+      {
+        "name": "Dr. Sai Hareesh",
+        "role": "Innovator, Maestro Technologies, Inc. | Founder and CEO i2i",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._Sai_Hareesh.png",
+        "bio_short": "Dr. Sai Hareesh has 14+ years of experience in AI, Computer Vision, and Deep Learning across defense,",
+        "bio_full": "Dr. Sai Hareesh has 14+ years of experience in AI, Computer Vision, and Deep Learning across defense, healthcare, and industrial IoT. He holds 108 patents/disclosures, 35 publications, and was named among India’s Top 40 Data Scientists Under 40 (2020). A PhD holder and active mentor, he collaborates with institutions like NITI Aayog, REVA, Stanford, and IITH.",
+        "profile_url": "https://race.reva.edu.in/team_mf/dr-sai-hareesh/#more-5608",
+        "social": {
+          "twitter": "https://twitter.com/saihareesh01",
+          "linkedin": "https://www.linkedin.com/in/saihareesh/"
+        },
+        "image_file": "images/analytics/Dr._Sai_Hareesh.png"
+      }
+    ],
+    "Cybersecurity/Cloud Architecture": [
+      {
+        "name": "Sandeep Vijayaraghavan K",
+        "role": "Chief Mentor - Cyber & Cloud Security - RACE | EVP - Terralogic Inc.",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Sandeep_Vijayaraghavan.png",
+        "bio_short": "A cybersecurity and cloud security expert at Terralogic Inc., with over 20 years of industry experience. Specializes in cyber",
+        "bio_full": "A cybersecurity and cloud security expert at Terralogic Inc., with over 20 years of industry experience. Specializes in cyber incident management, threat intelligence, and building resilient security programs for clients in fintech, e-commerce, and manufacturing. Known for driving secure digital transformation and enhancing operational excellence through strategic consulting.",
+        "profile_url": "https://race.reva.edu.in/team_mf/sandeep-vijayaraghavan-k/#more-1395",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/sandeep-vijayaraghavan/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Sandeep_Vijayaraghavan.png"
+      },
+      {
+        "name": "Sridhar Govardhan",
+        "role": "Group Chief Information Security Officer Group, Angel One",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Sridhar_Govardhan.png",
+        "bio_short": "With 24 years of experience in information security, he currently leads as Head of Information Security, driving data",
+        "bio_full": "With 24 years of experience in information security, he currently leads as Head of Information Security, driving data protection, compliance, and cybersecurity culture. His expertise spans security frameworks, technologies, and employee awareness initiatives. Known for blending protection with innovation, he helps organizations stay resilient against evolving cyber threats.",
+        "profile_url": "https://race.reva.edu.in/team_mf/sridhar-govardhan/#more-1398",
+        "social": {
+          "twitter": "https://twitter.com/SridharGovardha",
+          "linkedin": "https://www.linkedin.com/in/sridhargovardhan/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Sridhar_Govardhan.png"
+      },
+      {
+        "name": "Dr. Ram Kumar G",
+        "role": "Cyber Security and Risk Leader, Global Automotive Major",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._Ram_Kumar_G.png",
+        "bio_short": "A digital transformation-focused cybersecurity leader with 20+ years of global experience across MNCs,",
+        "bio_full": "A digital transformation-focused cybersecurity leader with 20+ years of global experience across MNCs, specializing in data privacy, risk, GRC, and business-aligned security programs. Recognized as a LinkedIn Top Voice and Top 50 Global Thought Leader, with multiple awards for cybersecurity leadership. Known for driving cultural change and integrating security into digital strategy with measurable ROI. Published author and passionate advocate for cybersecurity awareness.",
+        "profile_url": "https://race.reva.edu.in/team_mf/ram-kumar-g/#more-1393",
+        "social": {
+          "twitter": "https://twitter.com/grkonweb",
+          "linkedin": "https://www.linkedin.com/in/gramkumar/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Dr._Ram_Kumar_G.png"
+      },
+      {
+        "name": "Dr. Paras Arora",
+        "role": "Vice President, Mphasis",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._Paras_Arora.png",
+        "bio_short": "With 17+ years of experience, Dr. Paras leads Microsoft’s Azure team as a coach, mentor, and business architect, driving global initiatives and ensuring real-world",
+        "bio_full": "With 17+ years of experience, Dr. Paras leads Microsoft’s Azure team as a coach, mentor, and business architect, driving global initiatives and ensuring real-world impact. He specializes in security standards like ISO 27001 and PCI DSS, with expertise in SoX-404, vendor risk, BCM, VAPT, app security, and privacy audits.",
+        "profile_url": "https://race.reva.edu.in/team_mf/dr-paras-arora/#more-1396",
+        "social": {
+          "twitter": "https://twitter.com/ParasAr0ra",
+          "linkedin": "https://www.linkedin.com/in/dr-paras-arora-hc-4a0b47a/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Dr._Paras_Arora.png"
+      },
+      {
+        "name": "Papa Rao",
+        "role": "Corporate Trainer and DevSecOps Consultant",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Papa_Rao.png",
+        "bio_short": "Mr. Rao is a seasoned freelance corporate trainer with 26+ years of experience, specializing in cloud platforms",
+        "bio_full": "Mr. Rao is a seasoned freelance corporate trainer with 26+ years of experience, specializing in cloud platforms (AWS, Azure, GCP, OpenStack), DevSecOps, AIOps, and MLOps. He brings deep expertise in portal technologies, document management systems, and Identity & Access Management solutions, making him a valuable mentor at RACE.",
+        "profile_url": "https://race.reva.edu.in/team_mf/papa-rao#more-8096",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/papa-rao-328ab631/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Papa_Rao.png"
+      },
+      {
+        "name": "Dr. Soumyo Maity",
+        "role": "Distinguished Member of Technical Staff, Dell Technologies",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._Soumyo_Maity.png",
+        "bio_short": "As a Distinguished Member of Technical Staff at Dell, he leads product security strategies that safeguard 10,000+",
+        "bio_full": "As a Distinguished Member of Technical Staff at Dell, he leads product security strategies that safeguard 10,000+ products and millions of users, with a focus on secure-by-design principles. He heads Dell’s enterprise-wide Open-Source Security and AI/ML security initiatives, combining deep technical expertise with a strong foundation in Cyber Law and risk.",
+        "profile_url": "https://race.reva.edu.in/team_mf/dr-soumyo-maity/#more-5361",
+        "social": {
+          "twitter": "https://twitter.com/smymty",
+          "linkedin": "https://www.linkedin.com/in/soumyam/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Dr._Soumyo_Maity.png"
+      },
+      {
+        "name": "Dhruv Kalaan",
+        "role": "Director - Cybersecurity & IT, REA India",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dhruv_Kalaan-1.png",
+        "bio_short": "Dhruv is a dynamic cybersecurity leader with deep expertise in incident management, threat intelligence, and forensics across cloud and on-premise",
+        "bio_full": "Dhruv is a dynamic cybersecurity leader with deep expertise in incident management, threat intelligence, and forensics across cloud and on-premise systems. A passionate open-source contributor and trainer, he has trained hundreds of professionals and currently holds a senior role at a leading e-commerce firm.",
+        "profile_url": "https://race.reva.edu.in/team_mf/dhruv-kalaan#more-5186",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/dhruv-kalaan-a05a1154/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Dhruv_Kalaan-1.png"
+      },
+      {
+        "name": "Nishanth Kumar Pathi",
+        "role": "Director - Cyber Security & Governance Director, Gulf Air Group (GFG)",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Nishanth_Kumar_Pathi-1.png",
+        "bio_short": "A Solutions Architect with 15 years of experience, specializing in Cybersecurity, Data Privacy, Cloud Automation,",
+        "bio_full": "A Solutions Architect with 15 years of experience, specializing in Cybersecurity, Data Privacy, Cloud Automation, DevSecOps, and FinOps. He has a strong track record in designing secure, scalable solutions across industries. Passionate about securing systems and data, he stays committed to continuous learning and delivering high-impact results.",
+        "profile_url": "https://race.reva.edu.in/team_mf/nishanth-kumar-pathi/#more-12022",
+        "social": {
+          "twitter": "https://twitter.com/nishanthkumarp",
+          "linkedin": "https://www.linkedin.com/in/nishanthkumarpathi/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Nishanth_Kumar_Pathi-1.png"
+      },
+      {
+        "name": "Manoj Sharma",
+        "role": "Founder and Managing Director, Cybernous Infosec Consulting LLP",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Manoj_Sharma.png",
+        "bio_short": "With over two decades of cybersecurity expertise, he leads SISA’s training initiatives as Director of Training and",
+        "bio_full": "With over two decades of cybersecurity expertise, he leads SISA’s training initiatives as Director of Training and Delivery—designing high-impact modules in payment security and cloud-native systems. As the founder of Cybernous, he built custom CISSP programs and launched the globally recognized “CISSP Success Toolkit,” empowering thousands of professionals and strengthening enterprise security.",
+        "profile_url": "https://race.reva.edu.in/team_mf/manoj-sharma#more-15198",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/mksharma007/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Manoj_Sharma.png"
+      },
+      {
+        "name": "Sivakumar Subramanian",
+        "role": "Vice President & Global Delivery Leader- Cybersecurity, HCLTech",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Sivakumar_Subramanian-1.png",
+        "bio_short": "IT Leader with 25+ years of global experience in building high-impact cybersecurity business units and trusted",
+        "bio_full": "IT Leader with 25+ years of global experience in building high-impact cybersecurity business units and trusted client partnerships. Currently a Vice President & Global Delivery Leader – Cyber Security A passionate mentor, speaker, and lifelong learner, he contributes to shaping future security talent through curriculum design and knowledge-sharing at Reva University. Certified in CISM, PMP, AWS CCP, and QAD.",
+        "profile_url": "https://race.reva.edu.in/team_mf/sivakumar-subramanian/#more-12035",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/psshiva/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Sivakumar_Subramanian-1.png"
+      },
+      {
+        "name": "Vishal Pradhan",
+        "role": "Manager, PurpleSynapz",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Vishal_Pradhan.png",
+        "bio_short": "He is a Purple Team Engineer driven by a passion to deliver a 360-degree perspective on security, aiming to equip security enthusiasts with the insights",
+        "bio_full": "He is a Purple Team Engineer driven by a passion to deliver a 360-degree perspective on security, aiming to equip security enthusiasts with the insights needed to build the next generation of cyber warriors. He is committed to transforming the security mindset through active contributions to the purple team philosophy.",
+        "profile_url": "https://race.reva.edu.in/team_mf/vishal-pradhan#more-15189",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/vishal-pradhan-46a6099b/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Vishal_Pradhan.png"
+      },
+      {
+        "name": "Abid Ahmed",
+        "role": "Consultant Senior, Git IT Academy",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Abid_Ahmed.png",
+        "bio_short": "An excellent communicator with 15+ years of experience in the IT industry, including roles as a Technical Lead, Consultant, and Corporate Trainer.",
+        "bio_full": "An excellent communicator with 15+ years of experience in the IT industry, including roles as a Technical Lead, Consultant, and Corporate Trainer. Has spent over a decade as a freelance consultant and trainer, delivering impactful sessions across diverse domains. Clients include IBM, Cisco, Accenture, Cognizant, Fidelity, Wipro, TCS, ITC Infotech, CGI, and more.",
+        "profile_url": "https://race.reva.edu.in/team_mf/abid-ahmed#more-15187",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/abid-ahmed/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Abid_Ahmed.png"
+      },
+      {
+        "name": "Vadivelan Sankar",
+        "role": "Co-Founder and CEO, Cyberium Labs Private Limited",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Vadivelan_Sankar-1.png",
+        "bio_short": "Co-Founder and CEO of Cyberium Labs Pvt. Ltd., he brings 24+ years of expertise in Red Teaming, penetration testing, and digital forensics. A licensed pentester",
+        "bio_full": "Co-Founder and CEO of Cyberium Labs Pvt. Ltd., he brings 24+ years of expertise in Red Teaming, penetration testing, and digital forensics. A licensed pentester and global trainer, he has led cybersecurity initiatives for enterprises and law enforcement across India and abroad.",
+        "profile_url": "https://race.reva.edu.in/team_mf/vadivelan-sankar/#more-12032",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/vadivelan-sankar-22b9b7224/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Vadivelan_Sankar-1.png"
+      },
+      {
+        "name": "Nishant Krishna",
+        "role": "Executive Director, Visiminds Technologies Pvt. Ltd.",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Nishant_Krishna-1.png",
+        "bio_short": "Nishant is the Co-founder and CTO of Computer Vision and Cybersecurity startup, “TechMachinery Labs”.",
+        "bio_full": "Nishant is the Co-founder and CTO of Computer Vision and Cybersecurity startup, “TechMachinery Labs”. He is an entrepreneur, Software Architect, Innovator, and Inventor with many granted and pending patents. He loves exploring and using new ways to solve complex problems in the areas of Cybersecurity, System Programming, Cognitive Computing, Computer Vision, and Product Scaling. Nishant has 23+ years of experience working on Architecture, Cybersecurity, API Development, Anti-Counterfeiting Technologies, Cloud and Virtualization, Internet of Things (IoT), and Machine Learning. He has a Master of Science (MS) in Software Engineering from BITS, Pilani, along with many technical certifications. He has a Cybersecurity book, “Python for Cybersecurity Cookbook” published that is aimed to provide Cybersecurity proficiency to students, faculties, or anyone who wants to make a career in Cybersecurity. He is currently working on original research and product development on Cybersecurity, focusing on Cyber Forensics, Data Protection, and Compliance.",
+        "profile_url": "https://race.reva.edu.in/team_mf/nishant-krishna/#more-2428",
+        "social": {
+          "twitter": "https://x.com/nishantkrishna",
+          "linkedin": "https://www.linkedin.com/in/nishantkrishna/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Nishant_Krishna-1.png"
+      },
+      {
+        "name": "Rajiv R Chetwani",
+        "role": "Director, ISRO Headquarters",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Rajiv_R_Chetwani.png",
+        "bio_short": "He has adorned various other coveted positions at ISRO Satellite Centre, Bengaluru. He has received ISRO’s team excellence award for 2015.",
+        "bio_full": "He has adorned various other coveted positions at ISRO Satellite Centre, Bengaluru. He has received ISRO’s team excellence award for 2015. In July 2015, he became a part of Mars Orbiter Mission Testing Team. He is the recipient of Brigadier ML Anand IETE national award of 2007. He is also chairing various Inter-centre technical committees in ISRO and has participated as member in Karnataka State Government technical committees.",
+        "profile_url": "https://race.reva.edu.in/team_mf/rajiv-r-chetwani/#more-1801",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://in.linkedin.com/in/rajiv-chetwani-a2307ab1"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Rajiv_R_Chetwani.png"
+      },
+      {
+        "name": "Chinmay Hegde",
+        "role": "CEO & Managing Director, Astrikos Consulting",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Chinmay_Hegde.png",
+        "bio_short": "Chinmay has worked for global security giants including McAfee, Symantec and Cisco. Chinmay possesses expertise in",
+        "bio_full": "Chinmay has worked for global security giants including McAfee, Symantec and Cisco. Chinmay possesses expertise in the area of Security Analytics, Security Compliance Enforcement, and Dynamic Insider Reputation Rating. He has been a contributor to McAfee Global Support Knowledge on various technology topics.",
+        "profile_url": "https://race.reva.edu.in/team_mf/chinmay-hegde/#more-1383",
+        "social": {
+          "twitter": "https://twitter.com/chinmayth",
+          "linkedin": "https://www.linkedin.com/in/chinmayth/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Chinmay_Hegde.png"
+      },
+      {
+        "name": "Dr. Sai Sushanth",
+        "role": "Chief Mentor, Startup Legal Connect",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._Sai_Sushanth.png",
+        "bio_short": "A cyber law expert and techno-legal consultant. He is a law graduate who has completed a master’s in cyber law and cybersecurity from the National Law",
+        "bio_full": "A cyber law expert and techno-legal consultant. He is a law graduate who has completed a master’s in cyber law and cybersecurity from the National Law University, Jodhpur. Sushanth is one of the 45 Cyber Law Compliance Auditors in India. Sushanth IT Law Associates provides advice on social and legal consulting related to IT, such as technology transfer and licensing, software piracy and privacy, e-commerce, data protection & outsourcing, cyber law, and the IT act. He is a visiting faculty for Cyber law at various Universities.",
+        "profile_url": "https://race.reva.edu.in/team_mf/sushanth-samudrala-#more-1438",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/dr-sai-sushanth-samudrala-660a4459/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Dr._Sai_Sushanth.png"
+      },
+      {
+        "name": "Unnikrishnan P",
+        "role": "Partner - CyberSecurity Services, PWC",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Unnikrishnan_P.png",
+        "bio_short": "Unnikrishnan is focused on building and delivering cybersecurity capabilities to improve the cyber risk posture of the clients across industry sectors.",
+        "bio_full": "Unnikrishnan is focused on building and delivering cybersecurity capabilities to improve the cyber risk posture of the clients across industry sectors. His core expertise is in the area of Information Security Consulting, Transaction & Enterprise Risk Management, BCM/DR, IT Risk Consulting, and Business Analytics & Financial Advisory.",
+        "profile_url": "https://race.reva.edu.in/team_mf/unnikrishnan-p/#more-1384",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/unnikrishnanp/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Unnikrishnan_P.png"
+      },
+      {
+        "name": "Ashok Sharma",
+        "role": "CTO & Co-Founder, Purple Synapz",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Ashok_Sharma.png",
+        "bio_short": "Ashok is a cybersecurity expert who has competency in shaping most of the dynamic security solutions and products. His experience is mainly in leading R & D",
+        "bio_full": "Ashok is a cybersecurity expert who has competency in shaping most of the dynamic security solutions and products. His experience is mainly in leading R & D teams in Check Point, Wipro, and Nokia, and advocates cybersecurity platforms with open-source tools and global security intelligence.",
+        "profile_url": "https://race.reva.edu.in/team_mf/ashok-sharma/#more-1374",
+        "social": {
+          "twitter": "https://twitter.com/ashoksharma19",
+          "linkedin": "https://www.linkedin.com/in/ashoklogin/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Ashok_Sharma.png"
+      },
+      {
+        "name": "Mahesh Paradkar",
+        "role": "IBM Storage Solutions Leader, IBM",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Mahesh-Paradkar.png",
+        "bio_short": "Mahesh heads the IBM Security Labs in Pune and has the functional responsibility of Encryption and Key Management IBM Security products. He plays an",
+        "bio_full": "Mahesh heads the IBM Security Labs in Pune and has the functional responsibility of Encryption and Key Management IBM Security products. He plays an instrumental role in establishing relationships with academic institutions, particularly in the western region by driving several initiatives.",
+        "profile_url": "https://race.reva.edu.in/team_mf/mahesh-paradkar/#more-1385",
+        "social": {
+          "twitter": "https://twitter.com/maheshparadkar",
+          "linkedin": "https://www.linkedin.com/in/mparadka/"
+        },
+        "image_file": "images/cybersecurity-cloud-architecture/Mahesh-Paradkar.png"
+      }
+    ],
+    "Leadership": [
+      {
+        "name": "Anju Bhatia",
+        "role": "Co-Founder & Director, TeamWorks Academy",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Anju_Bhatia.png",
+        "bio_short": "Anju is a leadership development and talent management professional with experience in establishing and leading L & D functions for organizations in IT, ITeS,",
+        "bio_full": "Anju is a leadership development and talent management professional with experience in establishing and leading L & D functions for organizations in IT, ITeS, Banking & Financial Services, and Hospitality sectors. She focuses on the training and development of leaders at all levels and also conducts experiential team-building events.",
+        "profile_url": "https://race.reva.edu.in/team_mf/anju-bhatia/#more-1629",
+        "social": {
+          "twitter": "https://twitter.com/AnjuShankar",
+          "linkedin": "https://www.linkedin.com/in/anjubhatia/"
+        },
+        "image_file": "images/leadership/Anju_Bhatia.png"
+      },
+      {
+        "name": "Dr. Pavan Soni",
+        "role": "Founder and Innovation Evangelist, Inflexion Point Consulting",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Dr._Pavan_Soni.png",
+        "bio_short": "",
+        "bio_full": "",
+        "profile_url": "",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/pavansoni/"
+        },
+        "image_file": "images/leadership/Dr._Pavan_Soni.png"
+      },
+      {
+        "name": "Sathya Karthik Ramadass",
+        "role": "Strategy and Growth, Sciera Inc.",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Sathya_Karthik_Ramadass.png",
+        "bio_short": "",
+        "bio_full": "",
+        "profile_url": "",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/sathya-karthik-ramadass-21a8505/"
+        },
+        "image_file": "images/leadership/Sathya_Karthik_Ramadass.png"
+      },
+      {
+        "name": "Sivaraman Swaminathan",
+        "role": "Founder and Partner, ContraMinds Labs",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Sivaraman_Swaminathan.png",
+        "bio_short": "",
+        "bio_full": "",
+        "profile_url": "",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/sivaraman-swaminathan-9856501/"
+        },
+        "image_file": "images/leadership/Sivaraman_Swaminathan.png"
+      },
+      {
+        "name": "Saritha Digumarti",
+        "role": "Consulting Partner, dōnō consulting",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Saritha_Digumarti.png",
+        "bio_short": "Saritha has extensive analytics and consulting experience across diverse domains including retail, health-care and financial services. She has been helping clients to tackle complex business problems by applying analytical",
+        "bio_full": "Saritha has extensive analytics and consulting experience across diverse domains including retail, health-care and financial services. She has been helping clients to tackle complex business problems by applying analytical techniques. Received Global Achiever’s Award for Education Leadership 2013 in recognition of her achievements in the field of analytics education and training.",
+        "profile_url": "https://race.reva.edu.in/team_mf/saritha-digumarti/#more-1628",
+        "social": {
+          "twitter": "https://twitter.com/saritadigumarti",
+          "linkedin": "https://www.linkedin.com/in/saritadigumarti/"
+        },
+        "image_file": "images/leadership/Saritha_Digumarti.png"
+      },
+      {
+        "name": "Nazarius Manoharan",
+        "role": "Brand & Creative Consultant, Nazarius & Co",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Nazarius_Manoharan.png",
+        "bio_short": "Created the Kingfisher ‘Ooo…la…la… la…la…’ TV commercial and has won several international and national awards in Advertising, Press, Radio, etc.  A corporate Trainer with competency in",
+        "bio_full": "Created the Kingfisher ‘Ooo…la…la… la…la…’ TV commercial and has won several international and national awards in Advertising, Press, Radio, etc. A corporate Trainer with competency in leadership, communication, and creative skills training. He adorns various roles such as Life and Executive Coach, Advanced Neuro-Linguistic Programming Practitioner, Voice Over Artist, and Psychodrama Therapist.",
+        "profile_url": "https://race.reva.edu.in/team_mf/nazarius-manoharan/#more-1627",
+        "social": {
+          "twitter": "https://twitter.com/Nazmanoharan",
+          "linkedin": "https://www.linkedin.com/in/nazarius-manoharan-7a13862/"
+        },
+        "image_file": "images/leadership/Nazarius_Manoharan.png"
+      },
+      {
+        "name": "Madhukar Rajendra",
+        "role": "SITPM Consultant, Schneider Electric",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Madhukar_Rajendra.png",
+        "bio_short": "A management professional who has also worked with IT companies in the US for over a decade. He brings out his practical experiences on leadership, attitude, team building, and motivation in his programs. He has been conducting programs and",
+        "bio_full": "A management professional who has also worked with IT companies in the US for over a decade. He brings out his practical experiences on leadership, attitude, team building, and motivation in his programs. He has been conducting programs and mentoring professionals in India, Middle East, United States, Canada, and the UK.",
+        "profile_url": "https://race.reva.edu.in/team_mf/madhukar-rajendra/#more-1630",
+        "social": {
+          "twitter": "https://twitter.com/RACEREVA",
+          "linkedin": "https://www.linkedin.com/in/madhukar-rajendra-2bb9baa/"
+        },
+        "image_file": "images/leadership/Madhukar_Rajendra.png"
+      },
+      {
+        "name": "Pavan Sriram",
+        "role": "Director of Learning and Development, Encora Inc.",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Pavan_Sriram.png",
+        "bio_short": "Pavan Sriram is a management professional with experience in HR consulting, and Learning and Development in India and abroad. Pavan is an active speaker at many forums specifically on topics pertaining on",
+        "bio_full": "Pavan Sriram is a management professional with experience in HR consulting, and Learning and Development in India and abroad. Pavan is an active speaker at many forums specifically on topics pertaining on leadership development. He is a regular columnist and has authored several articles that have been published in leading publications.",
+        "profile_url": "https://race.reva.edu.in/team_mf/pavan-sriram/#more-1626",
+        "social": {
+          "twitter": "https://twitter.com/learngage1",
+          "linkedin": "https://www.linkedin.com/in/pavansriram/"
+        },
+        "image_file": "images/leadership/Pavan_Sriram.png"
+      },
+      {
+        "name": "Ramesh Soundararajan",
+        "role": "Consulting and Training in Analytics, Culstran Consulting LLP",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Ramesh_Soundararajan.png",
+        "bio_short": "Ramesh has pioneered an analytical approach in reviewing information and integrating insights across different HR functions to bring the best foot forward. The approach encompasses all HR",
+        "bio_full": "Ramesh has pioneered an analytical approach in reviewing information and integrating insights across different HR functions to bring the best foot forward. The approach encompasses all HR domains such as performance management, learning and development, and talent acquisition and retention.",
+        "profile_url": "https://race.reva.edu.in/team_mf/ramesh-soundararajan/#more-1625",
+        "social": {
+          "twitter": "https://twitter.com/leftsound",
+          "linkedin": "https://www.linkedin.com/in/rameshsound/"
+        },
+        "image_file": "images/leadership/Ramesh_Soundararajan.png"
+      },
+      {
+        "name": "Sanjay Shelvankar",
+        "role": "Head - Strategic Initiatives and CEO Talent Tigers Inc.",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Sanjay_Shelvankar.png",
+        "bio_short": "Sanjay has been instrumental in developing dozens of best practices in the realm of talent acquisition, transformation and retention in the companies he has worked for. He has experience in leading large development team for technical",
+        "bio_full": "Sanjay has been instrumental in developing dozens of best practices in the realm of talent acquisition, transformation and retention in the companies he has worked for. He has experience in leading large development team for technical delivery, domain consulting, talent retention, talent transformation and talent acquisition.",
+        "profile_url": "https://race.reva.edu.in/team_mf/sanjay-shelvankar/#more-1624",
+        "social": {
+          "twitter": "https://twitter.com/Sshelvankar",
+          "linkedin": "https://www.linkedin.com/in/sshelvankar/"
+        },
+        "image_file": "images/leadership/Sanjay_Shelvankar.png"
+      },
+      {
+        "name": "Manoj Kumar",
+        "role": "Founder and CEO, State of Mind.ai",
+        "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/Manoj_Kumar.png",
+        "bio_short": "Manoj is a thought leader, HR 40Under40 award winner, influencer, blogger, and speaker who has experience in various leadership roles. His core competency includes salesforce effectiveness, people risk monitoring, talent acquisition",
+        "bio_full": "Manoj is a thought leader, HR 40Under40 award winner, influencer, blogger, and speaker who has experience in various leadership roles. His core competency includes salesforce effectiveness, people risk monitoring, talent acquisition strategy, operational excellence, and digital transformation.",
+        "profile_url": "https://race.reva.edu.in/team_mf/manoj-kumar/#more-1615",
+        "social": {
+          "twitter": "https://twitter.com/reach2manoj",
+          "linkedin": "https://www.linkedin.com/in/manojkumarhranalytics/"
+        },
+        "image_file": "images/leadership/Manoj_Kumar.png"
+      }
+    ]
+  }
+}

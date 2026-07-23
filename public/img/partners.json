@@ -1,0 +1,192 @@
+{
+  "source_url": "https://race.reva.edu.in/",
+  "section_title": "Our Partners",
+  "section_subtitle": "We collaborate with industry leaders to provide world-class education and career opportunities.",
+  "partners": [
+    {
+      "name": "MS Azure",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-MS-azure.png",
+      "image_file": "partners/logo-MS-azure.png"
+    },
+    {
+      "name": "AWS",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-AWS-academy.png",
+      "image_file": "partners/logo-AWS-academy.png"
+    },
+    {
+      "name": "EC-Council",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-EC-council.png",
+      "image_file": "partners/logo-EC-council.png"
+    },
+    {
+      "name": "Terralogic",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-terralogic.png",
+      "image_file": "partners/logo-terralogic.png"
+    },
+    {
+      "name": "CloudxLab",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-cloudxlab.png",
+      "image_file": "partners/logo-cloudxlab.png"
+    },
+    {
+      "name": "IBM",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-ibm.png",
+      "image_file": "partners/logo-ibm.png"
+    },
+    {
+      "name": "UCO Bank",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-uco-bank.png",
+      "image_file": "partners/logo-uco-bank.png"
+    },
+    {
+      "name": "Purple Synapz",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-purple-synapz.png",
+      "image_file": "partners/logo-purple-synapz.png"
+    },
+    {
+      "name": "Swiss Re",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-swissre.png",
+      "image_file": "partners/logo-swissre.png"
+    },
+    {
+      "name": "Toyota",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-toyota.png",
+      "image_file": "partners/logo-toyota.png"
+    },
+    {
+      "name": "Cisco",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-cisco.png",
+      "image_file": "partners/logo-cisco.png"
+    },
+    {
+      "name": "BigBasket",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-bigbasket.png",
+      "image_file": "partners/logo-bigbasket.png"
+    },
+    {
+      "name": "Capgemini",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-capgemini.png",
+      "image_file": "partners/logo-capgemini.png"
+    },
+    {
+      "name": "JCPenney",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-jcpenny.png",
+      "image_file": "partners/logo-jcpenny.png"
+    },
+    {
+      "name": "Citi",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-citi.png",
+      "image_file": "partners/logo-citi.png"
+    },
+    {
+      "name": "Juniper",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-juniper.png",
+      "image_file": "partners/logo-juniper.png"
+    },
+    {
+      "name": "Cognizant",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-cognizant.png",
+      "image_file": "partners/logo-cognizant.png"
+    },
+    {
+      "name": "Grant Thornton",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-Grant-Thornton.png",
+      "image_file": "partners/logo-Grant-Thornton.png"
+    },
+    {
+      "name": "DSCI",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-dsci.png",
+      "image_file": "partners/logo-dsci.png"
+    },
+    {
+      "name": "Accenture",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-accenture.png",
+      "image_file": "partners/logo-accenture.png"
+    },
+    {
+      "name": "ANZ",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-ANZ.png",
+      "image_file": "partners/logo-ANZ.png"
+    },
+    {
+      "name": "Ericsson",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-ericsson.png",
+      "image_file": "partners/logo-ericsson.png"
+    },
+    {
+      "name": "Fidelity",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-fidelity.png",
+      "image_file": "partners/logo-fidelity.png"
+    },
+    {
+      "name": "DXC",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-dxc.png",
+      "image_file": "partners/logo-dxc.png"
+    },
+    {
+      "name": "TCS",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-TCS.png",
+      "image_file": "partners/logo-TCS.png"
+    },
+    {
+      "name": "VMware",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-vmware.png",
+      "image_file": "partners/logo-vmware.png"
+    },
+    {
+      "name": "NetApp",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-netapp.png",
+      "image_file": "partners/logo-netapp.png"
+    },
+    {
+      "name": "Tech Mahindra",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-tech-mahindra.png",
+      "image_file": "partners/logo-tech-mahindra.png"
+    },
+    {
+      "name": "Target",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-target.png",
+      "image_file": "partners/logo-target.png"
+    },
+    {
+      "name": "Siemens",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-siemens.png",
+      "image_file": "partners/logo-siemens.png"
+    },
+    {
+      "name": "Genpact",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-genpact.png",
+      "image_file": "partners/logo-genpact.png"
+    },
+    {
+      "name": "Rakuten",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-rakuten.png",
+      "image_file": "partners/logo-rakuten.png"
+    },
+    {
+      "name": "Google",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-google.png",
+      "image_file": "partners/logo-google.png"
+    },
+    {
+      "name": "Philips",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-philips.png",
+      "image_file": "partners/logo-philips.png"
+    },
+    {
+      "name": "Qualcomm",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-qualcomm.png",
+      "image_file": "partners/logo-qualcomm.png"
+    },
+    {
+      "name": "Indegene",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-indegene.png",
+      "image_file": "partners/logo-indegene.png"
+    },
+    {
+      "name": "Dell",
+      "image_url": "https://cdn-jpdgb.nitrocdn.com/SyCLsjAPcuzwEUWABFirEXZfDnNPauQf/assets/images/optimized/rev-5c4d3b2/race.reva.edu.in/wp-content/uploads/2022/05/logo-Dell.png",
+      "image_file": "partners/logo-Dell.png"
+    }
+  ]
+}
